@@ -41,7 +41,3 @@ A production has
     - urls
     - documents
 
-The organization can send periodic emails. For example: 
-
-The organization manages a list of people - the class attendees, the mentees, the instructors, etc.
-
